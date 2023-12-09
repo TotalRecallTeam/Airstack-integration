@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@airstack/node": "^0.0.5",
+    "dotenv": "^16.3.1"
+  }
+}
